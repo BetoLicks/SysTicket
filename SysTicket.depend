@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1504279886 source:/home/dev-pmm/Documentos/__PROJETOS DE SISTEMAS__/C/SysTicket/main.c
+	<stdio.h>
+	<string.h>
+
+1508341190 source:/home/dev-pmm/Documentos/PIM III E IV/PIM IV/SysTicket/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1504579634 source:/home/beto/Documentos/PIM IV/SysTicket/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1508341703 source:/home/betolicks/Documentos/PIM III E IV/PIM IV/SysTicket/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
