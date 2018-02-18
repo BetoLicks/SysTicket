@@ -4,7 +4,7 @@
 
 Este trabalho tem como objetivo desenvolver um sistema de controle de passagens de ônibus, desde a entrada até a movimentação financeira.
 
-Linguagem: C
-Ide: CodeBlocks
-Programador: Alberto Primo
+Linguagem: C<br>
+Ide: CodeBlocks<br>
+Programador: Alberto Primo<br>
 </p>
